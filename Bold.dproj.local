@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/08 19:55:51.000.095,=E:\MEGA\Default\Unit3.pas</Transaction>
+    <Transaction>2018/11/08 20:06:39.000.550,E:\MEGA\Default\Unit3.dfm=E:\MEGA\Antrian Gas 3kg Delphi\UDepan.dfm</Transaction>
+    <Transaction>2018/11/08 20:06:39.000.550,E:\MEGA\Default\Unit3.pas=E:\MEGA\Antrian Gas 3kg Delphi\UDepan.pas</Transaction>
+    <Transaction>2018/11/08 20:06:45.000.671,E:\MEGA\Default\Project3.dproj=E:\MEGA\Antrian Gas 3kg Delphi\Bold.dproj</Transaction>
+    <Transaction>2018/11/08 20:47:46.000.585,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/11/08 20:49:16.000.149,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm=E:\MEGA\Antrian Gas 3kg Delphi\uDataBaru.dfm</Transaction>
+    <Transaction>2018/11/08 20:49:16.000.149,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas=E:\MEGA\Antrian Gas 3kg Delphi\uDataBaru.pas</Transaction>
+    <Transaction>2018/11/08 22:24:25.000.519,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/11/08 22:24:33.000.194,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas=E:\MEGA\Antrian Gas 3kg Delphi\Config.pas</Transaction>
+    <Transaction>2018/11/08 23:54:37.000.257,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/11/08 23:56:15.000.555,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm=E:\MEGA\Antrian Gas 3kg Delphi\uAntrianGas.dfm</Transaction>
+    <Transaction>2018/11/08 23:56:15.000.555,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas=E:\MEGA\Antrian Gas 3kg Delphi\uAntrianGas.pas</Transaction>
+    <Transaction>2018/11/09 08:37:29.000.603,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/11/09 08:43:50.000.048,E:\MEGA\Antrian Gas 3kg Delphi\uCarinama.pas=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/11/09 08:43:50.000.048,E:\MEGA\Antrian Gas 3kg Delphi\uCarinama.dfm=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm</Transaction>
+    <Transaction>2018/11/10 06:25:42.000.490,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/11/10 06:31:31.000.272,E:\MEGA\Antrian Gas 3kg Delphi\uSetting.dfm=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm</Transaction>
+    <Transaction>2018/11/10 06:31:31.000.272,E:\MEGA\Antrian Gas 3kg Delphi\uSetting.pas=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/11/10 07:35:45.000.792,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/11/10 07:37:13.000.417,E:\MEGA\Antrian Gas 3kg Delphi\uDatabase.dfm=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm</Transaction>
+    <Transaction>2018/11/10 07:37:13.000.417,E:\MEGA\Antrian Gas 3kg Delphi\uDatabase.pas=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/11/11 23:48:27.000.055,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/11/11 23:54:00.000.243,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas=E:\MEGA\Antrian Gas 3kg Delphi\uDatabarangManual.pas</Transaction>
+    <Transaction>2018/11/11 23:54:00.000.243,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm=E:\MEGA\Antrian Gas 3kg Delphi\uDatabarangManual.dfm</Transaction>
+    <Transaction>2018/11/13 08:29:29.000.814,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/11/13 08:42:47.000.087,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas=E:\MEGA\Antrian Gas 3kg Delphi\uTransaksi_Manual.pas</Transaction>
+    <Transaction>2018/11/13 08:42:47.000.087,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm=E:\MEGA\Antrian Gas 3kg Delphi\uTransaksi_Manual.dfm</Transaction>
+    <Transaction>2018/12/21 11:49:50.000.717,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/12/21 11:51:29.000.556,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas=E:\MEGA\Antrian Gas 3kg Delphi\uEditQty.pas</Transaction>
+    <Transaction>2018/12/21 11:51:29.000.556,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm=E:\MEGA\Antrian Gas 3kg Delphi\uEditQty.dfm</Transaction>
+    <Transaction>2018/12/21 16:17:52.000.747,=E:\MEGA\Antrian Gas 3kg Delphi\uConfig.pas</Transaction>
+    <Transaction>2018/12/21 16:18:02.000.479,=E:\MEGA\Antrian Gas 3kg Delphi\uUDF_FR.pas</Transaction>
+    <Transaction>2018/12/22 07:32:20.000.063,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/12/22 07:33:23.000.404,E:\MEGA\Antrian Gas 3kg Delphi\uListTransaksi.pas=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/12/22 07:33:23.000.404,E:\MEGA\Antrian Gas 3kg Delphi\uListTransaksi.dfm=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm</Transaction>
+    <Transaction>2018/12/23 10:35:18.000.140,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/12/23 10:37:39.000.509,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm=E:\MEGA\Antrian Gas 3kg Delphi\uEditQtyListTransaksi.dfm</Transaction>
+    <Transaction>2018/12/23 10:37:39.000.509,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas=E:\MEGA\Antrian Gas 3kg Delphi\uEditQtyListTransaksi.pas</Transaction>
+    <Transaction>2018/12/23 14:45:04.000.303,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/12/23 14:59:39.000.477,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm=E:\MEGA\Antrian Gas 3kg Delphi\uReportPenjualan.dfm</Transaction>
+    <Transaction>2018/12/23 14:59:39.000.477,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas=E:\MEGA\Antrian Gas 3kg Delphi\uReportPenjualan.pas</Transaction>
+    <Transaction>2018/12/24 01:08:35.000.455,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/12/24 01:10:57.000.283,E:\MEGA\Antrian Gas 3kg Delphi\uLogin.pas=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/12/24 01:10:57.000.283,E:\MEGA\Antrian Gas 3kg Delphi\uLogin.dfm=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm</Transaction>
+    <Transaction>2018/12/24 15:10:58.000.189,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/12/24 15:12:03.000.425,E:\MEGA\Antrian Gas 3kg Delphi\uListUtang.dfm=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm</Transaction>
+    <Transaction>2018/12/24 15:12:03.000.425,E:\MEGA\Antrian Gas 3kg Delphi\uListUtang.pas=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/12/24 20:29:32.000.441,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/12/24 20:30:55.000.173,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas=E:\MEGA\Antrian Gas 3kg Delphi\uEditnama.pas</Transaction>
+    <Transaction>2018/12/24 20:30:55.000.173,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm=E:\MEGA\Antrian Gas 3kg Delphi\uEditnama.dfm</Transaction>
+    <Transaction>2018/12/24 23:05:30.000.025,=E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas</Transaction>
+    <Transaction>2018/12/24 23:07:25.000.633,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.pas=E:\MEGA\Antrian Gas 3kg Delphi\uUtangDetail.pas</Transaction>
+    <Transaction>2018/12/24 23:07:25.000.633,E:\MEGA\Antrian Gas 3kg Delphi\Unit1.dfm=E:\MEGA\Antrian Gas 3kg Delphi\uUtangDetail.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
